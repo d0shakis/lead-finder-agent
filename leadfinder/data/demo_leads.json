@@ -1,0 +1,893 @@
+[
+  {
+    "business": {
+      "osm_id": "node/9261836412",
+      "name": "Χριστακούδη Δήμητρα",
+      "category": "dentist",
+      "lat": 40.5931849,
+      "lon": 22.9501976,
+      "address": "Θεμιστοκλή Σοφούλη 52, 54655, Καλαμαριά",
+      "phone": "+30 2310 443317",
+      "email": "dimichrista@gmail.com",
+      "website": "",
+      "opening_hours": "Mo-Fr 09:00-21:00"
+    },
+    "signals": null,
+    "analysis": {
+      "score": 65,
+      "problems": [
+        "No website listed"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Χριστακούδη Δήμητρα team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/11241150650",
+      "name": "Οδοντίατρος Κώστας Χατζής",
+      "category": "dentist",
+      "lat": 40.6914058,
+      "lon": 23.0030166,
+      "address": "Ελευθερίας Λεωφόρος 6, 57010, Φίλυρο",
+      "phone": "+30 2310 677 443",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 65,
+      "problems": [
+        "No website listed"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Οδοντίατρος Κώστας Χατζής team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/12680156579",
+      "name": "Gordana Rakovic",
+      "category": "dentist",
+      "lat": 40.6025245,
+      "lon": 22.9687638,
+      "address": "Πλαταιών 31, 54249, Θεσσαλονίκη",
+      "phone": "+30 2310311648",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 65,
+      "problems": [
+        "No website listed"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Gordana Rakovic team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/13072984803",
+      "name": "just smile - Οδοντιατρείο Γεράσιμος Κρίθυμος",
+      "category": "dentist",
+      "lat": 40.6031715,
+      "lon": 22.9695834,
+      "address": "Αντωνίου Τούσα 1, 54250, Θεσσαλονίκη",
+      "phone": "+30 2310 311411",
+      "email": "",
+      "website": "",
+      "opening_hours": "Mo-We 10:00-14:00,17:30-21:00; Th 10:00-14:00; Fr 10:00-14:00,19:45-21:00"
+    },
+    "signals": null,
+    "analysis": {
+      "score": 65,
+      "problems": [
+        "No website listed"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi just smile - Οδοντιατρείο Γεράσιμος Κρίθυμος team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/13114396370",
+      "name": "Κανετίδου",
+      "category": "dentist",
+      "lat": 40.6726999,
+      "lon": 22.9348532,
+      "address": "",
+      "phone": "+30 2310650703",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 65,
+      "problems": [
+        "No website listed"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Κανετίδου team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/2766941349",
+      "name": "Η ορθοδοντικός σας στην Καλαμαριά",
+      "category": "dentist",
+      "lat": 40.580952,
+      "lon": 22.9517798,
+      "address": "Κομνηνών 75, 55132, Καλαμαριά",
+      "phone": "+30 2310 029405",
+      "email": "",
+      "website": "https://www.orthodontist-kalamaria.gr/",
+      "opening_hours": "Mo-Fr 18:00-21:00"
+    },
+    "signals": {
+      "reachable": true,
+      "status_code": 200,
+      "final_url": "https://www.orthodontist-kalamaria.gr/",
+      "https": true,
+      "response_ms": 1233,
+      "mobile_friendly": true,
+      "has_contact_form": false,
+      "has_booking": true,
+      "has_chat_widget": false,
+      "has_analytics": false,
+      "has_ad_pixel": false,
+      "cms": "",
+      "copyright_year": 2025,
+      "has_h1": true,
+      "contact_page": "",
+      "social_links": [],
+      "emails": [
+        "info@orthodontist-kalamaria.gr"
+      ],
+      "title": "Ορθοδοντικό Ιατρείο Καλαμαριά | Χατζούδη Μαρία",
+      "description": "Ειδικός Ορθοδοντικός στην Καλαμαριά. Σύγχρονη ορθοδοντική παίδων & ενηλίκων. Εξατομικευμένη φροντίδα για υγιές χαμόγελο. Καλέστε μας για ραντεβού",
+      "text_excerpt": "Ορθοδοντικό Ιατρείο Καλαμαριά | Χατζούδη Μαρία Ορθοδοντικό Ιατρείο Καλαμαριά | Χατζούδη Μαρία Μετάβαση στο κυρίως περιεχόμενο Το ιατρείο συγχρηματοδοτείται από ΕΣΠΑ: Μαρία Χατζούδη Ειδικός Ορθοδοντικός, DDS, MSc Υπηρεσίες Η Ιατρός Το Ιατρείο Επικοινωνία 2310 029405 Άνοιγμα μενού Υπηρεσίες Η Ιατρός Το Ιατρείο Επικοινωνία Καλέστε: 2310 029405 Υγιή Χαμόγελα για το παιδί σας & εσάς. Καλώς ήρθατε στο ορθοδοντικό ιατρείο της Μαρίας Χατζούδη. Η ιατρός και το προσωπικό της, σεβόμενοι την εμπιστοσύνη σας, παρέχουν σύγχρονη εξατομικευμένη φροντίδα υψηλής εξειδίκευσης σε ένα ασφαλές και κατάλληλα διαμορφωμένο περιβάλλον. Δείτε τις Υπηρεσίες Κλείστε Ραντεβού → Υπηρεσίες Ορθοδοντική φροντίδα για κάθε ηλικία Καλύπτουμε ένα ευρύ φάσμα ορθοδοντικών προσεγγίσεων, προσαρμοσμένο στις ιδιαίτερες απαιτήσεις της κάθε ηλικίας. Ορθοδοντική και Ορθοπεδική Θεραπεία Παίδων & Εφήβων Έγκαιρη διάγνωση και θεραπεία για τη σωστή ανάπτυξη των γνάθων και την ιδανική διευθέτηση των δοντιών, θέτοντας τις βάσεις για ένα υγιές χαμόγελο. Ορθοδοντική Θεραπεία Ενηλίκων Ποτέ δεν είναι αργά για το χαμόγελο που ονειρεύεστε. Προσφέρουμε διακριτικές λύσεις, όπως κεραμικά (λευκά) σιδεράκια και προσαρμόζουμε το θεραπευτικό σας πλάνο στις ηλικιακές σας ανάγκες. Αόρατη ορθοδοντική Σύγχρονη λύση για ίσια δόντια με γλωσσικά σιδεράκια, δηλαδή σιδεράκια που τοποθετούνται στην εσωτερική πλευρά των δοντιών. Εναλλακτικά, προσεγγίσεις με διαφανείς νάρθηκες (Invisalign). Αντιμετώπιση Δυσλειτουργιών Κροταφογναθικών Διαρθρώσεων Με κατά",
+      "error": ""
+    },
+    "analysis": {
+      "score": 55,
+      "problems": [
+        "No contact form",
+        "No social media links",
+        "No analytics: can't measure marketing"
+      ],
+      "opportunities": [
+        "Lead capture form connected to a CRM",
+        "Chat / WhatsApp widget",
+        "Analytics + lead tracking dashboard"
+      ],
+      "pitch": "Hi Η ορθοδοντικός σας στην Καλαμαριά team, I noticed a few quick wins for you, starting with lead capture form connected to a crm.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/7344827301",
+      "name": "Αναστασία Χουρπουλιάδου",
+      "category": "dentist",
+      "lat": 40.5996317,
+      "lon": 22.9642125,
+      "address": "Πατριάρχη Γρηγορίου Ε' 38, 54248, Θεσσαλονίκη",
+      "phone": "+30 2310 314974",
+      "email": "231o314974@gmail.com",
+      "website": "https://odontiatros-harilaou.gr/",
+      "opening_hours": "Mo-Fr 09:00-21:00"
+    },
+    "signals": {
+      "reachable": true,
+      "status_code": 200,
+      "final_url": "https://odontiatros-harilaou.gr/",
+      "https": true,
+      "response_ms": 476,
+      "mobile_friendly": true,
+      "has_contact_form": false,
+      "has_booking": true,
+      "has_chat_widget": false,
+      "has_analytics": false,
+      "has_ad_pixel": false,
+      "cms": "",
+      "copyright_year": 2020,
+      "has_h1": true,
+      "contact_page": "https://odontiatros-harilaou.gr/#contact",
+      "social_links": [
+        "https://facebook.com/book/161204357947733",
+        "https://www.facebook.com/odontiatros.harilaou"
+      ],
+      "emails": [
+        "231o314974@gmail.com"
+      ],
+      "title": "Αναστασία Χουρπουλιάδου, Οδοντίατρος",
+      "description": "οδοντιατρος χαριλαου",
+      "text_excerpt": "Αναστασία Χουρπουλιάδου, Οδοντίατρος Ευρωπαϊκό Κοινωνικό Ταμείο Μενού ΡΑΝΤΕΒΟΥ ΕΠΙΚΟΙΝΩΝΙΑ ΥΠΗΡΕΣΙΕΣ ΙΑΤΡΕΙΟ ΒΙΟΓΡΑΦΙΚΟ BLOG slider initiator slider button 1 slider button 2 slider button 3 Αναστασία Χουρπουλιάδου Οδοντίατρος Δέχεται καθημερινά με ραντεβού . Πατριάρχου Γρηγορίου Ε 38, Θεσσαλονίκη, 54248 (χάρτης) Τηλ: 2310314974 Κλείστε ραντεβού Η οδοντίατρος Αναστασία Χουρπουλιάδου δέχεται καθημερινά με ραντεβού στο τηλέφωνο 2310314974 Με γνώμονα τις τελευταίες εξελίξεις στην οδοντιατρική επιστήμη και με τη βοήθεια της τεχνολογίας, στοχεύουμε στην επίτευξη της στοματικής υγείας του κάθε ασθενή και δίνουμε έμφαση στην ικανοποίηση των αναγκών του. Οι υπηρεσίες που παρέχουμε καλύπτουν όλα τα πεδία της γενικής οδοντιατρικής. Προληπτική Οδοντιατρική Οδοντική Χειρουργική Ενδοδοντία Περιοδοντολογία Προσθετική Χειρουργική Στόματος Το οδοντιατρείο βρίσκεται στην περιοχή Χαριλάου στη γωνία Λεωφόρου Καραμανλή και Πατριάρχου Γρηγορίου Ε 38 (πάνω από το Plaisir) κοντά στη στάση 25ης Μαρτίου των αστικών λεωφορείων του ΟΑΣΘ γραμμή 2 (Ικέα-Σταθμός) & 31 (Βούλγαρη-Κτελ) (χάρτης) Βιογραφικό Η Αναστασία Χουρπουλιάδου αποφοίτησε από την Οδοντιατρική Σχολή του Αριστοτέλειου Πανεπιστημίου Θεσσαλονίκης τον Μάρτιο του 2017 (Κατά τη διάρκεια των σπουδών της παρακολούθησε την αντιμετώπιση περιστατικών σε οδοντιατρεία της Θεσσαλονίκης) Μετά το πέρας των σπουδών της παρέχει εθελοντικά τις υπηρεσίες της στο κοινωνικό ιατρείο της μητρόπολης Θεσσαλονίκης «Άγιοι Ανάργυροι» Συμμετοχή σε συνέδρια και επιμορφω",
+      "error": ""
+    },
+    "analysis": {
+      "score": 55,
+      "problems": [
+        "No contact form",
+        "No analytics: can't measure marketing",
+        "Site looks outdated (© 2020)"
+      ],
+      "opportunities": [
+        "Lead capture form connected to a CRM",
+        "Chat / WhatsApp widget",
+        "Analytics + lead tracking dashboard"
+      ],
+      "pitch": "Hi Αναστασία Χουρπουλιάδου team, I noticed a few quick wins for you, starting with lead capture form connected to a crm.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/2364883017",
+      "name": "Χαρίτου",
+      "category": "dentist",
+      "lat": 40.6507468,
+      "lon": 22.938907,
+      "address": "Ούλωφ Πάλμε 17, 56728, Νεάπολη",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Χαρίτου team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/4705928640",
+      "name": "Δρ. ΔΗΜΗΤΡΙΑΔΗΣ ΟΔΟΝΤΙΑΤΡΟΣ",
+      "category": "dentist",
+      "lat": 40.6006684,
+      "lon": 22.9537151,
+      "address": "Βασιλίσσης Όλγας 173, 54645, Θεσσαλονίκη",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Δρ. ΔΗΜΗΤΡΙΑΔΗΣ ΟΔΟΝΤΙΑΤΡΟΣ team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/5797130043",
+      "name": "ΟΔΟΝΤΙΑΤΡΕΙΟ",
+      "category": "dentist",
+      "lat": 40.7252905,
+      "lon": 22.9135278,
+      "address": "Κομνηνών",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi ΟΔΟΝΤΙΑΤΡΕΙΟ team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/5802471861",
+      "name": "SmileClinic DentalCare",
+      "category": "dentist",
+      "lat": 40.7102092,
+      "lon": 22.9292936,
+      "address": "Βισσυνιας",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi SmileClinic DentalCare team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/7652839983",
+      "name": "La Perla",
+      "category": "dentist",
+      "lat": 40.6625431,
+      "lon": 22.9312686,
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi La Perla team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/8819953989",
+      "name": "Καιμακαμίδου-@Οδοντίατρος",
+      "category": "dentist",
+      "lat": 40.6189645,
+      "lon": 22.9629923,
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Καιμακαμίδου-@Οδοντίατρος team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/11468633032",
+      "name": "Βασίλης Βουγιατζής",
+      "category": "dentist",
+      "lat": 40.6004037,
+      "lon": 22.9565111,
+      "address": "25ης Μαρτίου 39",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": "Mo-Fr 09:00-14:00,Mo-Thu: 18:00-21:00"
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Βασίλης Βουγιατζής team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/11756357462",
+      "name": "Μαντζούφας Μιχαήλ",
+      "category": "dentist",
+      "lat": 40.661998,
+      "lon": 22.9282801,
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Μαντζούφας Μιχαήλ team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/11824445993",
+      "name": "Χατζόπουλος Γεώργιος",
+      "category": "dentist",
+      "lat": 40.6512677,
+      "lon": 22.9227456,
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Χατζόπουλος Γεώργιος team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/11829790362",
+      "name": "Χρυσοχόου",
+      "category": "dentist",
+      "lat": 40.6568696,
+      "lon": 22.9246199,
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Χρυσοχόου team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/11829883757",
+      "name": "Κουταλίδου",
+      "category": "dentist",
+      "lat": 40.654625,
+      "lon": 22.9236665,
+      "address": "Μεγάλου Αλεξάνδρου 26, 561 23, Αμπελόκηποι",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Κουταλίδου team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/11836608844",
+      "name": "Ηρώ Ηρακλέους-Δουλγεράκη",
+      "category": "dentist",
+      "lat": 40.6584984,
+      "lon": 22.9247222,
+      "address": "28ης Οκτωβρίου 135, Αμπελόκηποι",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Ηρώ Ηρακλέους-Δουλγεράκη team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/11843224012",
+      "name": "Αφροδίτη Κεσσίδη",
+      "category": "dentist",
+      "lat": 40.660612,
+      "lon": 22.9267432,
+      "address": "Τριποτάμου 6, 564 30, Σταυρούπολη Θεσσαλονίκη",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Αφροδίτη Κεσσίδη team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/12165829470",
+      "name": "Αγαπητοπούλου",
+      "category": "dentist",
+      "lat": 40.496597,
+      "lon": 22.9886709,
+      "address": "Μεταμοφώσεως, Νέο Ρύσιο",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Αγαπητοπούλου team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/12181015935",
+      "name": "Οδοντίατρος Μπάρμπας Γεώργιος",
+      "category": "dentist",
+      "lat": 40.6551414,
+      "lon": 22.9238258,
+      "address": "Μεγάλου Αλεξάνδρου 32, 561 21, Αμπελόκηποι",
+      "phone": "",
+      "email": "",
+      "website": "https://barmpasdent.gr",
+      "opening_hours": "Mo-Fr 09:00-14:00,17:00-21:00; "
+    },
+    "signals": {
+      "reachable": true,
+      "status_code": 200,
+      "final_url": "https://barmpasdent.gr",
+      "https": true,
+      "response_ms": 625,
+      "mobile_friendly": true,
+      "has_contact_form": false,
+      "has_booking": true,
+      "has_chat_widget": false,
+      "has_analytics": true,
+      "has_ad_pixel": false,
+      "cms": "WordPress",
+      "copyright_year": 2026,
+      "has_h1": true,
+      "contact_page": "https://barmpasdent.gr/epikoinonia/",
+      "social_links": [],
+      "emails": [
+        "barbasgeorgios@yahoo.com",
+        "u0022barbasgeorgios@yahoo.com"
+      ],
+      "title": "Οδοντίατρος Μπάρμπας Γεώργιος",
+      "description": "Οδοντιατρείο στους Αμπελόκηπους Θεσσαλονίκης. Πολυετής εμπειρία. Απόφοιτος Εθνικού Καποδιστριακού Πανεπιστημίου Αθηνών. Δείτε τις υπηρεσίες και επικοινωνήστε.",
+      "text_excerpt": "Οδοντίατρος Μπάρμπας Γεώργιος Μετάβαση στο περιεχόμενο Οδοντιατρείο στη Θεσσαλονίκη Επισκέψεις κατόπιν ραντεβού Εξατομικευμένη φροντίδα Μπάρμπας Ι. Γεώργιος Χειρουργός-Οδοντίατρος Αρχική Υπηρεσίες Τι σας απασχολεί Βιογραφικό Επικοινωνία Κλείστε ραντεβού Αρχική Υπηρεσίες Τι σας απασχολεί Βιογραφικό Επικοινωνία Κλείστε ραντεβού Φροντίδα που ξεκινά από την εμπιστοσύνη Οδοντιατρική φροντίδα με επίκεντρο εσάς. Σύγχρονες μέθοδοι, εξατομικευμένη προσέγγιση και καθαρή επικοινωνία σε κάθε στάδιο. Κλείστε ραντεβού Μεγ. Αλεξάνδρου 32, 561 21, Αμπελόκηποι, Θεσσαλονίκη Σύγχρονη φροντίδα Μεθοδική προσέγγιση με επίκεντρο τον ασθενή. Εξατομικευμένο πλάνο Κάθε πρόταση προσαρμόζεται στις πραγματικές ανάγκες σας. Σαφής ενημέρωση Γνωρίζετε τα επόμενα βήματα πριν προχωρήσετε. Ευέλικτα ραντεβού Εύκολος προγραμματισμός που ταιριάζει στη ζωή σας. Ξεκινήστε από αυτό που χρειάζεστε Τι σας απασχολεί; Δεν χρειάζεται να γνωρίζετε τη θεραπεία. Επιλέξτε αυτό που αισθάνεστε και δείτε πώς οργανώνεται ο πρώτος έλεγχος. Δείτε όλες τις ανάγκες Πόνος σε δόντι Ευαισθησία σε ζεστό ή κρύο Σπασμένο δόντι ή σφράγισμα Ούλα που αιμορραγούν Δόντι που κουνιέται Πέτρα ή επίμονη κακοσμία Ενόχληση από φρονιμίτη Δόντια που λείπουν Λεκέδες ή αλλαγή χρώματος Σχήμα ή εμφάνιση δοντιών Οδοντιατρική φροντίδα παιδιού Προληπτικός έλεγχος Ο δικός σας οδοντίατρος στη Θεσσαλονίκη Για μένα η σωστή οδοντιατρική φροντίδα ξεκινά από την κατανόηση των αναγκών κάθε ασθενούς. Κάθε θεραπεία σχεδιάζεται εξατομικευμένα, με στόχο ένα λειτουργικό,",
+      "error": ""
+    },
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No contact form",
+        "No social media links"
+      ],
+      "opportunities": [
+        "Lead capture form connected to a CRM",
+        "Chat / WhatsApp widget"
+      ],
+      "pitch": "Hi Οδοντίατρος Μπάρμπας Γεώργιος team, I noticed a few quick wins for you, starting with lead capture form connected to a crm.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/12229825777",
+      "name": "Νισήρη Αθηνά",
+      "category": "dentist",
+      "lat": 40.5694468,
+      "lon": 22.9595333,
+      "address": "Κουντουριώτου 69, 55132, Καλαμαριά",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": "Mo-Fr 09:00-12:00 & 17:00-21:00"
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Νισήρη Αθηνά team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/12232222217",
+      "name": "Dental Lab",
+      "category": "dentist",
+      "lat": 40.5731669,
+      "lon": 22.9542959,
+      "address": "Μιαούλη Ανδρέα 2, 55132, Καλαμαριά",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": "Mo-Fr 08:00-17:00"
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Dental Lab team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/12543372924",
+      "name": "Παρασκευή Μόσχου",
+      "category": "dentist",
+      "lat": 40.6733224,
+      "lon": 22.8015296,
+      "address": "Γεωργίου Βιζυηνού 9, 57400, Σίνδος",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Παρασκευή Μόσχου team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/12696679724",
+      "name": "Dr Αθανάσιος Γρέτσιας",
+      "category": "dentist",
+      "lat": 40.5544143,
+      "lon": 23.0191554,
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "opening_hours": ""
+    },
+    "signals": null,
+    "analysis": {
+      "score": 50,
+      "problems": [
+        "No website listed",
+        "No contact details found (hard to reach)"
+      ],
+      "opportunities": [
+        "Build a simple website with a contact form"
+      ],
+      "pitch": "Hi Dr Αθανάσιος Γρέτσιας team, I noticed a few quick wins for you, starting with build a simple website with a contact form.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/14046563284",
+      "name": "Αναστασία Βιολεστή - Οδοντίατρος Καλαμαριά",
+      "category": "dentist",
+      "lat": 40.573162,
+      "lon": 22.9603462,
+      "address": "Βρυούλων 27Β, 55132, Καλαμαριά",
+      "phone": "+302310488004",
+      "email": "",
+      "website": "https://violesti.gr/",
+      "opening_hours": "Mo 12:30-20:30, Tu,Th 10:00-14:00, 16:00-20:00, We 10:00-18:00"
+    },
+    "signals": {
+      "reachable": true,
+      "status_code": 200,
+      "final_url": "https://violesti.gr/",
+      "https": true,
+      "response_ms": 545,
+      "mobile_friendly": true,
+      "has_contact_form": true,
+      "has_booking": true,
+      "has_chat_widget": false,
+      "has_analytics": false,
+      "has_ad_pixel": false,
+      "cms": "",
+      "copyright_year": 2020,
+      "has_h1": false,
+      "contact_page": "",
+      "social_links": [
+        "https://www.facebook.com/violestidentist/"
+      ],
+      "emails": [
+        "anastasiaviol@gmail.com"
+      ],
+      "title": "Aναστασία Βιολεστή - Χειρουργός Οδοντίατρος",
+      "description": "",
+      "text_excerpt": "Aναστασία Βιολεστή - Χειρουργός Οδοντίατρος Τηλέφωνο: 2310 488004 | email: anastasiaviol@gmail.com ΚΛΕΙΣΤΕ ΡΑΝΤΕΒΟΥ Η ιστοσελίδα χρησιμοποιεί cookies για την βελτίωση της online εμπειρίας σας. Πατήστε \"Αποδοχή\" για να συνεχίσετε ή \"Περισσότερα\" για να διαβάσετε σχετικές πληροφορίες. Περισσότερα Αποδοχή Αρχικη Υπηρεσιες Σχετικα με εμας Το οδοντιατρειο Ραντεβου Θα μας βρειτε Αναστασια Βιολεστη Χειρουργός Οδοντίατρος ΑΠΘ, DDS, MSc - Περιοδοντολόγος - Εμφυτευματολόγος / Οι υπηρεσιες μας Αποκτήστε το Χαμόγελο που πάντα επιθυμούσατε Περιοδοντολογια Μη χειρουργική και χειρουργική θεραπεία των περιοδοντικών νόσων Εφαρμογή αναγεννητικών τεχνικών σε περιοδοντικές βλάβες Πλαστική χειρουργική περιοδοντίου (κάλυψη υφιζήσεων, εκτομή χαλινών, αύξηση διαστάσεων μαλακών ιστών) Αισθητική βελτίωση του χαμόγελου (διαφοροποιημένη παθητική ανατολή) Προπροσθετική επιμήκυνση κλινικής μύλης Εμφυτευματολογια Χειρουργική τοποθέτηση εμφυτευμάτων Ανύψωση ιγμόρειου Ταυτόχρονη οστική ανάπλαση Μη χειρουργική και χειρουργική θεραπεία περιεμφυτευμ. βλαβών Προσθετικη Προσθετικές αναπαραστάσεις επί εμφυτευμάτων Ακίνητη προσθετική (στεφάνες - γέφυρες) Κινητή προσθετική (ολικές και μερικές οδοντοστοιχίες) Χειρουργικη στοματος Εξαγωγή φρονιμιτών – εκτομή ριζών - αφαίρεση κύστεων Αποκάλυψη έγκλειστων δοντιών Ενδοδοντικες θεραπειες Απονευρώσεις μονόρριζων και πολύριζων δοντιών Επανάληψη παλιών ενδοδοντικών θεραπειών Αισθητικη οδοντιατρικη Άμεσες και έμμεσες αποκαταστάσεις Όψεις πορσελάνης / ρητίνης (σφραγίσματα ρητι",
+      "error": ""
+    },
+    "analysis": {
+      "score": 48,
+      "problems": [
+        "No analytics: can't measure marketing",
+        "Site looks outdated (© 2020)",
+        "Weak SEO basics (missing meta description or H1)"
+      ],
+      "opportunities": [
+        "Chat / WhatsApp widget",
+        "Analytics + lead tracking dashboard"
+      ],
+      "pitch": "Hi Αναστασία Βιολεστή - Οδοντίατρος Καλαμαριά team, I noticed a few quick wins for you, starting with chat / whatsapp widget.",
+      "provider": "rules"
+    }
+  },
+  {
+    "business": {
+      "osm_id": "node/13469202214",
+      "name": "The Smile Designers",
+      "category": "dentist",
+      "lat": 40.5899208,
+      "lon": 22.9543159,
+      "address": "",
+      "phone": "+30 2310 480477",
+      "email": "",
+      "website": "https://odontiatroi-thessaloniki.gr",
+      "opening_hours": ""
+    },
+    "signals": {
+      "reachable": true,
+      "status_code": 200,
+      "final_url": "https://odontiatroi-thessaloniki.gr",
+      "https": true,
+      "response_ms": 157,
+      "mobile_friendly": true,
+      "has_contact_form": false,
+      "has_booking": true,
+      "has_chat_widget": true,
+      "has_analytics": true,
+      "has_ad_pixel": false,
+      "cms": "WordPress",
+      "copyright_year": 2026,
+      "has_h1": true,
+      "contact_page": "https://odontiatroi-thessaloniki.gr#epikoinwnia",
+      "social_links": [
+        "https://www.instagram.com/smile_design_thessaloniki",
+        "https://www.tiktok.com/@smile_design_aesthetics",
+        "https://x.com/eleni_samou",
+        "https://youtube.com/@user-nr2ff4dd9i"
+      ],
+      "emails": [
+        "info@odontiatroi-thessaloniki.gr",
+        "info@staging.odontiatroi-thessaloniki.gr"
+      ],
+      "title": "Οδοντίατρος Καλαμαριά Θεσσαλονίκη | Οδοντίατροι Smile Design",
+      "description": "Smile Design Καλαμαριά Θεσσαλονίκης. Έμπειροι οδοντίατροι Θεσσαλονίκη για αισθητική, εμφυτεύματα, όψεις. Κλείστε ραντεβού",
+      "text_excerpt": "Οδοντίατρος Καλαμαριά Θεσσαλονίκη | Οδοντίατροι Smile Design Μετάβαση σε περιεχόμενο τηλέφωνο • 2310 480477 Αναζήτηση για: Μενού English Home Ιατρείο Υπηρεσίες Επικοινωνία Αισθητική Οδοντιατρική Λεύκανση Δοντιών Όψεις Δοντιών Όψεις Ρητίνης-Bonding Όψεις Πορσελάνης Υπέρλεπτες Όψεις Πορσελάνης(lumineers) Όψεις Edelweiss Ορθοδοντική δοντιών χωρίς σιδεράκια Σχεδιασμός Χαμόγελου Αόρατη Ορθοδοντική με διαφανείς Νάρθηκες, χωρίς σιδεράκια Ολοκεραμικές Στεφάνες-Γέφυρες Ζιρκονίου Ένθετα-Επένθετα Σφαγίσματα Πορσελάνης-Ρητίνης Λευκά Σφραγίσματα Ρητίνης Στεφάνες και γέφυρες δοντιών Θεραπείες Ρυτίδων Dental Face Lift – Οδοντιατρικό Lifting αντιγήρανσης Υαλουρονικό οξύ: Θεραπεία ρυτίδων και αποκατάσταση όγκου χειλέων Ολικές και μερικές οδοντοστοιχίες Φωτογραφίες Περιστατικών Οδοντικά Εμφυτεύματα Ανύψωση Ιγμορείου (Sinus Lift) Θεσσαλονίκη Οστική Ανάπλαση στη Θεσσαλονίκη Περιοδοντολογία Ουλίτιδα-Θεραπεία Περιοδοντίτιδα-Θεραπεία Καθαρισμός Δοντιών (Αποτρύγωση) Καθαρισμός με σοδοβολή(air-flow) Ουλοπλαστική Στοματική Υγιεινή Βούρτσισμα Δοντιών Kακοσμία Στόματος Tριχωτή γλώσσα-Kαθαρισμός γλώσσας Ενδοδοντολογία Απονεύρωση-Ενδοδοντική Θεραπεία Χειρουργική Ενδοδοντία-Ακρορριζεκτομή Δοντιού Οδοντιατρικά Επείγοντα Θεσσαλονίκη: Εφημερεύοντες Οδοντίατροι 24 ώρες Νευρομυϊκή Οδοντιατρική Σύγκλειση δοντιών Κροταφογναθικές Δυσλειτουργίες TMJ Βρουξισμός-Βρυγμός-Τρίξιμο δοντιών Νάρθηκες βρυγμού Χρόνιοι Πονοκέφαλοι Ροχαλητό-άπνοια Νάρθηκες Άπνοιας – Silensor-sl Συχνές Ερωτήσεις Συχνές Ερωτήσεις: Λεύκανση Δοντι",
+      "error": ""
+    },
+    "analysis": {
+      "score": 40,
+      "problems": [
+        "No contact form"
+      ],
+      "opportunities": [
+        "Lead capture form connected to a CRM"
+      ],
+      "pitch": "Hi The Smile Designers team, I noticed a few quick wins for you, starting with lead capture form connected to a crm.",
+      "provider": "rules"
+    }
+  }
+]
