@@ -1,6 +1,6 @@
 # 🎯 Lead Finder Agent
 
-[![CI](https://github.com/d0shakis/lead-finder-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/d0shakis/lead-finder-agent/actions/workflows/ci.yml)
+[![CI](https://github.com/panmm942-ui/lead-finder-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/panmm942-ui/lead-finder-agent/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -42,7 +42,7 @@ OpenAI or local Ollama model to get AI-written analysis.
 ## Quick start
 
 ```bash
-git clone https://github.com/d0shakis/lead-finder-agent && cd lead-finder-agent
+git clone https://github.com/panmm942-ui/lead-finder-agent && cd lead-finder-agent
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -e ".[all]"
 ```
